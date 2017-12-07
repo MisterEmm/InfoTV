@@ -1,7 +1,7 @@
 # InfoTV
 Simple scripts used in the Hitachi Pi Info-TV project
 
-Full details of the project are on Instructables at XXXXXXXX
+Full details of the project are on Instructables at https://www.instructables.com/id/1975-Hitachi-Pi-Info-TV
 
 A video is available on YouTube at https://youtu.be/aQ6a6QbbFlY
 
